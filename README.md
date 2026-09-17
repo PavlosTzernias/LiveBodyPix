@@ -18,7 +18,7 @@ Client-Side Execution: Fully runs in the browser leveraging WebGL hardware accel
 No Server Setup: Runs seamlessly via GitHub Pages without any backend dependencies.
 
 Interactive UI: Simple controls to toggle segmentation effects, adjust opacity, and switch visual modes.
-
+ 
 
 Tech Stack
 JavaScript
